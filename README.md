@@ -2,9 +2,8 @@
 
 Atualmente Fazendo pós em desenvolvimento em python.
 
-- 👨🏻‍💻 **Professor** de Ciência de Dados na [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
-- 🧗🏼 Apaixonado por **escalada**
-- 📸 Também falo sobre **Ciência de Dados** no YouTube da [Hashtag Programação](https://www.youtube.com/@HashtagProgramacao)
+- 👨🏻‍💻 Formado desde 2021 em **Sistemas de Informação**
+- 🧗🏼 Apaixonado por **PHP** e **PYTHON**
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;

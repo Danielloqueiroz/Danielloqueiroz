@@ -3,11 +3,14 @@
 Atualmente Fazendo pós em desenvolvimento em python.
 
 - 👨🏻‍💻 Formado desde 2021 em **Sistemas de Informação**
-- 🧗🏼 Apaixonado por **PHP** e **PYTHON**
+- 🥰 Apaixonado por **PHP** e **PYTHON**
 - 🖥️ Atualmente mais focado em:
-<div style="display: inline">
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-</div> 
+  
+  <div style="display: inline">
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  </div> 
 
 ##
 

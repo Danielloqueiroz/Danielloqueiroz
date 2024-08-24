@@ -3,7 +3,7 @@
 
 Atualmente Fazendo pós em desenvolvimento em python.
 
-- 👨🏻‍💻 Formado desde 2021 em **Sistemas de Informação**
+- 👨🏻‍💻 Formado **Sistemas de Informação**
 - 🥰 Apaixonado por **PHP** e **PYTHON**
   
     <div style="display: inline">
